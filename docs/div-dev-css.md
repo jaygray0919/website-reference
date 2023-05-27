@@ -1,4 +1,4 @@
-# AMP CSS
+# amp.dev CSS
 
 ## SCSS
 - [frontend](https://github.com/ampproject/amp.dev/tree/future/frontend/scss/components)

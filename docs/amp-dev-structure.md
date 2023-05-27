@@ -1,4 +1,4 @@
-# Structure amp.dev
+# amp.dev structure
 
 ## Base
 - [base levels; amd.dev](https://github.com/ampproject/amp.dev/)
