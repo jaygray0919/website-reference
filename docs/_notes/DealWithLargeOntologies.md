@@ -1,0 +1,1 @@
+Please refer to https://oboacademy.github.io/obook/howto/deal-with-large-ontologies/
