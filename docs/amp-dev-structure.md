@@ -1,4 +1,4 @@
-# Structure `amp-dev`
+# Structure amp.dev
 
 ###### last edit: 23-01-12
 

@@ -1,7 +1,5 @@
 # AMP CSS
 
-###### last edit: 23-01-12
-
 ## SCSS
 - [frontend](https://github.com/ampproject/amp.dev/tree/future/frontend/scss/components)
 - [frontend21](https://github.com/ampproject/amp.dev/tree/future/frontend21/scss/components)

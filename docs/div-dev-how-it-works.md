@@ -1,7 +1,5 @@
 # How AMP Works
 
-###### last edit: 23-01-12
-
 ## Documentation
 - [AMP overview](https://amp.dev/about/how-amp-works/)
 - [AMP overview source](https://github.com/ampproject/amp.dev/blob/future/pages/content/amp-dev/about/how-amp-works.html)

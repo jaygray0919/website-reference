@@ -1,7 +1,5 @@
 # Static site generator
 
-###### last edit: 23-01-12
-
 ## Grow is the static site generator
 - Grow
   - [grow site](https://grow.dev/)

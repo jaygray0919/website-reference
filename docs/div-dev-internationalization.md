@@ -1,6 +1,4 @@
-# *Internationalization* using Natural Languages (NL)
-
-###### last edit: 23-01-12
+# Internationalization using Natural Languages (NL)
 
 ## AMP instructions
 - [internationalization](https://amp.dev/documentation/examples/guides/internationalization/)

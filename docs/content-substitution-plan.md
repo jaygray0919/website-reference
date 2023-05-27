@@ -1,6 +1,4 @@
-# *Content Substitution Plan*
-
-###### last edit: 23-01-12
+# Content Substitution Plan
 
 ## Tasks
 1. make search work

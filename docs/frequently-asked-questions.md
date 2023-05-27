@@ -1,6 +1,4 @@
-# *Frequently Asked Questions* (FAQ)
-
-###### last edit: 23-01-12
+# Frequently Asked Questions (FAQ)
 
 ## Dialog: Anant and Jay
 

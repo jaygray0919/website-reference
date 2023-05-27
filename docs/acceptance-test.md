@@ -1,4 +1,4 @@
-# *Acceptance Test*
+# Acceptance Test
 
 ###### Draft 23-01-10 (subject to revision based on new information)
 

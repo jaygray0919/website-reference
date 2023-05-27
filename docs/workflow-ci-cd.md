@@ -1,6 +1,4 @@
-# *CI/CD Workflow*
-
-###### last edit: 23-01-12
+# CI/CD Workflow
 
 ## amp-dev build system
 - [amphtml/build-system/](https://github.com/ampproject/amphtml/tree/main/build-system)

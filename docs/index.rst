@@ -17,7 +17,6 @@ TEXT
    acceptance-test
    amp-dev-google-dialog
    amp-dev-installation-notes
-   amp-dev-repo-tree
    amp-dev-search
    amp-dev-server-side-processes
    amp-dev-structure
@@ -33,8 +32,6 @@ TEXT
    organization-background
    workflow-ci-cd
    23-04-22
-   23-03-23
-   23-03-07
    22-07-13
    22-06-20
    22-02-28

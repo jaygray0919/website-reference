@@ -1,4 +1,4 @@
-# *AMP-SEARCH*
+# AMP-SEARCH
 
 ###### last edit: 23-01-12
 
