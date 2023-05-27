@@ -1,6 +1,4 @@
-# Organization Background
-
-##### last update: 12:08 Saturday, May 27, 2023
+# Organization background
 
 ## Our world
 - [Summary](https://gist.github.com/jaygray0919/249a870754dbc83470b60b241ce4e6df)

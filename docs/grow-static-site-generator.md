@@ -1,7 +1,5 @@
 # Static site generator
 
-##### last update: 11:56 Saturday, May 27, 2023
-
 ## Grow is the static site generator
 
 - Grow

@@ -1,7 +1,5 @@
 # Installation Notes
 
-##### last update: 12:07 Saturday, May 27, 2023
-
 ## Install gulp
 
 ## Install other dependencies

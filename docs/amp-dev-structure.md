@@ -1,7 +1,5 @@
 # amp.dev structure
 
-##### last update: 12:03 Saturday, May 27, 2023
-
 ## Base
 
 - [base levels; amd.dev](https://github.com/ampproject/amp.dev/)

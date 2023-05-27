@@ -1,7 +1,5 @@
 # Visualization
 
-##### last update: 12:02 Saturday, May 27, 2023
-
 ## Use automation to document and visualize the pipeline
 
 - [Visualizing a Codebase](https://githubnext.com/projects/repo-visualization)

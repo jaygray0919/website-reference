@@ -1,7 +1,5 @@
 # Content Substitution Plan
 
-##### last update: 12:00 Saturday, May 27, 2023
-
 ## Tasks
 
 1. make search work

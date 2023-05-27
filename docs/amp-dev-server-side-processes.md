@@ -1,7 +1,5 @@
 # Server Side Processes
 
-##### last update: 12:04 Saturday, May 27, 2023
-
 ## Preview
 
 - The CI/CD pipeline invokes node.js processes for server-side action such as

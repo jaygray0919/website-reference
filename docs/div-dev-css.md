@@ -1,7 +1,5 @@
 # amp.dev CSS
 
-##### last update: 11:59 Saturday, May 27, 2023
-
 ## SCSS
 
 - [frontend](https://github.com/ampproject/amp.dev/tree/future/frontend/scss/components)

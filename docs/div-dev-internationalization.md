@@ -1,7 +1,5 @@
 # Internationalization using Natural Languages (NL)
 
-##### last update: 11:58 Saturday, May 27, 2023
-
 ## AMP instructions
 
 - [internationalization](https://amp.dev/documentation/examples/guides/internationalization/)

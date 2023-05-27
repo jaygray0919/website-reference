@@ -1,7 +1,5 @@
 # How AMP Works
 
-##### last update: 11:59 Saturday, May 27, 2023
-
 ## Documentation
 
 - [AMP overview](https://amp.dev/about/how-amp-works/)

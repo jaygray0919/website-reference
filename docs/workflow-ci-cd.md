@@ -1,7 +1,5 @@
 # CI/CD Workflow
 
-##### last update: 11:51 Saturday, May 27, 2023
-
 ## amp-dev build system
 - [amphtml/build-system/](https://github.com/ampproject/amphtml/tree/main/build-system)
 

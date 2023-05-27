@@ -1,7 +1,5 @@
 # amp.dev search
 
-##### last update: 12:03 Saturday, May 27, 2023
-
 ## Introduction
 
 - [blog](https://blog.amp.dev/2020/02/14/in-search-of-the-amp-dev-search/)
