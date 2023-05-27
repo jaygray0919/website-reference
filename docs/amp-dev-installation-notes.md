@@ -1,4 +1,4 @@
-# Installation Notes
+# amp.dev Installation Notes
 
 ## Install gulp
 

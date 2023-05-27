@@ -1,4 +1,4 @@
-# amp.dev structure
+# amp.dev Structure
 
 ## Base
 

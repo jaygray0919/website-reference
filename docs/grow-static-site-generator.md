@@ -1,6 +1,6 @@
-# Static site generator
+# Static Site Generator
 
-## Grow is the static site generator
+## Grow is the static site generator (SSG)
 
 - Grow
   - [grow site](https://grow.dev/)

@@ -1,4 +1,4 @@
-# amp.dev search
+# amp.dev Search
 
 ## Introduction
 
