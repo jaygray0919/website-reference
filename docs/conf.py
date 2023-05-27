@@ -144,16 +144,25 @@ html_theme_options = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
 
-# Add any extra paths that contain custom files (such as robots.txt or
-# .htaccess) here, relative to this directory. These files are copied
-# directly to the root of the documentation.
-# html_extra_path = []
+html_static_path = [
+    '_static',
+    '_content',
+]
 
-# If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
-# using the given strftime format.
-#html_last_updated_fmt = '%b %d, %Y'
+# These paths are either relative to html_static_path or fully qualified paths (eg. https://...)
+
+html_css_files = [
+    'css/custom.css',
+]
+
+# Add any extra paths that contain custom files (such as robots.txt or .htaccess) here, relative to this directory.
+# These files are copied directly to the root of the documentation.
+#html_extra_path = ['_images']
+
+# If not '', a 'Last updated on:' time-stamp is inserted at every page bottom, using the given strftime format.
+
+html_last_updated_fmt = '%d %b %Y'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
