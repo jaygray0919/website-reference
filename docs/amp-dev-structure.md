@@ -1,7 +1,5 @@
 # Structure amp.dev
 
-###### last edit: 23-01-12
-
 ## Base
 - [base levels; amd.dev](https://github.com/ampproject/amp.dev/)
 - [base levels; amphtml](https://github.com/ampproject/amphtml/)

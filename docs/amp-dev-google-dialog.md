@@ -1,7 +1,5 @@
 # Google Dialog
 
-###### last edit: 23-01-12
-
 ## Improving project workflow
 - [discussion](https://github.com/ampproject/amp.dev/issues/3330)
 

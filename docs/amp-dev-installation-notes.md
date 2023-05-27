@@ -1,7 +1,5 @@
 # Installation Notes
 
-###### last edit: 23-01-12
-
 ## Install gulp
 
 ## Install other dependencies

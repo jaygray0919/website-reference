@@ -17,20 +17,21 @@
 - [amp-accordion HTML (en-US)](https://amp.dev/documentation/components/amp-accordion/)
 - [Spanish; documentation/components/reference/amp-accordion-v0.1@es.md](https://github.com/ampproject/amp.dev/blob/future/pages/content/amp-dev/documentation/components/reference/amp-accordion-v0.1%40es.md)
 
-# *Our Plan*
+## *Our Plan*
 
-## Background
+### Background
 
-### URN and IRI
+#### URN and IRI
 We  plan to follow URN and IRI concepts for URL labels 
   * [URN](https://en.wikipedia.org/wiki/Uniform_Resource_Name)
   * [IRI](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier)
 
-### IDN
+#### IDN
 We do not plan to follow internationalized domain name techniques which use language glyphs in the URL
   * [IDN](https://en.wikipedia.org/wiki/Internationalized_domain_name)
 
-## Site partitions for mono repo
+### Site partitions for mono repo
+
 - In order to maintain a mono repo but partition site content, use a two-letter prefix
   - /aa/20-digit-identifier/
   - /ba/20-digit-identifier/
@@ -38,6 +39,7 @@ We do not plan to follow internationalized domain name techniques which use lang
   - /da/20-digit-identifier/
   - /ea/20-digit-identifier/
   - /fa/20-digit-identifier/
+
 - The URL will be
   - {domain}/aa/20-digit-identifier/
   - {domain}/ba/20-digit-identifier/

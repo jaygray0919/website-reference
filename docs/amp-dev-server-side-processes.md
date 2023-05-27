@@ -1,7 +1,5 @@
 # Server Side Processes
 
-###### last edit: 23-01-12
-
 ## Preview
 - The CI/CD pipeline invokes node.js processes for server-side action such as
   - search integration
@@ -22,13 +20,13 @@
 - [Items](https://github.com/ampproject/amp.dev/blob/a6817519c19987b8a700110e9909f3c3bafce769/boilerplate/backend/index.js)
 - https://tinyurl.com/yam472fk
 
-# *Applications*
+## Applications
 
-## login; contact us
+### login; contact us
 - [Items](https://amp.dev/documentation/guides-and-tutorials/develop/login_requiring/login)
 - https://tinyurl.com/345wf8ce
 
-## Signed Exchange
+### Signed Exchange
 - [Items](https://amp.dev/documentation/guides-and-tutorials/websites/optimize-and-measure/signed-exchange)
 - https://tinyurl.com/4t94p2p9
 

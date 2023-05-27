@@ -1,7 +1,5 @@
 # AMP-SEARCH
 
-###### last edit: 23-01-12
-
 ## Introduction
 - [blog](https://blog.amp.dev/2020/02/14/in-search-of-the-amp-dev-search/)
 - [Custom Search JSON API: Introduction](https://developers.google.com/custom-search/v1/introduction)

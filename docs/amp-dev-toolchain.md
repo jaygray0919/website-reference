@@ -1,6 +1,5 @@
 # amp.dev tool list
 
-###### last edit: 23-01-12
 
 |TOOL-NAME|TOOL-SOURCE|TOOL-GITHUB-LINK|
 |:--------|:----------|:--------------|

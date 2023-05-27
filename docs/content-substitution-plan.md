@@ -1,6 +1,7 @@
 # Content Substitution Plan
 
 ## Tasks
+
 1. make search work
    - see documentation
 2. replace content for ~20 pages generated from markdown files
