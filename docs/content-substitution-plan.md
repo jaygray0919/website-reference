@@ -1,5 +1,7 @@
 # Content Substitution Plan
 
+##### last update: 12:00 Saturday, May 27, 2023
+
 ## Tasks
 
 1. make search work
@@ -18,11 +20,13 @@
 6. change SVG for main menu
 
 ## Contributing content instructions
+
 - https://github.com/ampproject/amp.dev/blob/future/contributing/documentation.md
 - https://github.com/ampproject/amp.dev/blob/future/contributing/samples.md
 
 
 ## URL title set here
+
 ```
 $title: AMP - a web component framework to easily create user-first web experiences
 ```
@@ -44,6 +48,7 @@ $title: AMP - a web component framework to easily create user-first web experien
 ## The official homepage of the AMP Project.
 
 ### about: The AMP Project Website
+
 - https://github.com/ampproject/amp.dev/
 - https://github.com/ampproject/amp.dev/tree/future/
 - https://github.com/ampproject/amp.dev/tree/future/pages/
@@ -51,21 +56,26 @@ $title: AMP - a web component framework to easily create user-first web experien
 - https://github.com/ampproject/amp.dev/tree/future/pages/content/amp-dev/
 
 ### homepage for all projects; no sidebar
+
 - https://amp.dev/
    - text: The latest news
    - https://github.com/ampproject/amp.dev/blob/future/pages/content/amp-dev/index-2021.html
 
 ### issue: where is this page
+
 - https://amp.dev/fr/index-2021/
 
 #### Website
+
 - https://amp.dev/about/websites/
 - https://github.com/ampproject/amp.dev/blob/future/pages/content/amp-dev/about/websites-2021.html
 
 ### list menus-main
+
 - https://github.com/ampproject/amp.dev/blob/future/pages/content/amp-dev/about/_blueprint.yaml
 
 ### inject SVG for menus-main
+
 - https://github.com/ampproject/amp.dev/blob/a6817519c19987b8a700110e9909f3c3bafce769/frontend/templates/views/2021/partials/header.j2
 
 ```
@@ -80,9 +90,11 @@ FR page
 - https://github.com/ampproject/amp.dev/tree/future/pages/content/amp-dev/documentation/
 
 ### partials
+
 - https://github.com/ampproject/amp.dev/tree/a6817519c19987b8a700110e9909f3c3bafce769/frontend/templates/views/partials
 
 ### intermediate page avec cards; includes sidebar
+
 - /views/partials/sidebar-toggle-button.j2
 - https://github.com/ampproject/amp.dev/tree/a6817519c19987b8a700110e9909f3c3bafce769/frontend/templates/views
 - https://github.com/ampproject/amp.dev/blob/a6817519c19987b8a700110e9909f3c3bafce769/frontend/templates/views/partials/sidebar-toggle-button.j2

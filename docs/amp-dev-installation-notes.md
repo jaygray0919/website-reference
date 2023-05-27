@@ -1,5 +1,7 @@
 # Installation Notes
 
+##### last update: 12:07 Saturday, May 27, 2023
+
 ## Install gulp
 
 ## Install other dependencies
@@ -56,7 +58,7 @@ sudo apt install -y python-yaml
 
 `at /amp.dev/gulpfile.js/build.js:33:13`
 
-
 ## EXPLANATION about user.name
+
 - [link: Stackoverflow; Git configuration user.name doesn't work](https://stackoverflow.com/questions/25593043/git-configuration-user-name-doesnt-work)
 - [link: problem with installing amp.dev](https://github.com/ampproject/amp.dev/issues/4163)

@@ -1,14 +1,19 @@
 # Internationalization using Natural Languages (NL)
 
+##### last update: 11:58 Saturday, May 27, 2023
+
 ## AMP instructions
+
 - [internationalization](https://amp.dev/documentation/examples/guides/internationalization/)
 
 ## Ontomatica example using `amp-lit` and `amp-mustache`
+
 - [RDF in 50 Words or Less](https://ontomatica.io/a/12370110501010001939/)
 
 ## AMP examples
 
 ### components --> amp-accordion
+
 - [components](https://amp.dev/documentation/components/)
 - [documentation/components/](https://github.com/ampproject/amp.dev/tree/future/pages/content/amp-dev/documentation/components/)
 - [documentation/components/index.html](https://github.com/ampproject/amp.dev/blob/future/pages/content/amp-dev/documentation/components/index.html)
@@ -17,16 +22,18 @@
 - [amp-accordion HTML (en-US)](https://amp.dev/documentation/components/amp-accordion/)
 - [Spanish; documentation/components/reference/amp-accordion-v0.1@es.md](https://github.com/ampproject/amp.dev/blob/future/pages/content/amp-dev/documentation/components/reference/amp-accordion-v0.1%40es.md)
 
-## *Our Plan*
+## Our Plan
 
 ### Background
 
 #### URN and IRI
-We  plan to follow URN and IRI concepts for URL labels 
+
+We plan to follow URN and IRI concepts for URL labels 
   * [URN](https://en.wikipedia.org/wiki/Uniform_Resource_Name)
   * [IRI](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier)
 
 #### IDN
+
 We do not plan to follow internationalized domain name techniques which use language glyphs in the URL
   * [IDN](https://en.wikipedia.org/wiki/Internationalized_domain_name)
 

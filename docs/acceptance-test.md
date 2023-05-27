@@ -1,5 +1,7 @@
 # Acceptance Test
 
+##### last update: 12:07 Saturday, May 27, 2023
+
 **A** preview changes on Apple/Mac and Windows/WSL before committing a development branch (based on Stripe Systems advice)
 
 **B** generate homepage for 6 sites

@@ -1,6 +1,9 @@
 # Static site generator
 
+##### last update: 11:56 Saturday, May 27, 2023
+
 ## Grow is the static site generator
+
 - Grow
   - [grow site](https://grow.dev/)
   - [grow github](https://github.com/grow/)
@@ -8,6 +11,7 @@
   - [jinja](https://jinja.palletsprojects.com/en/3.0.x/)
 
 ## Grow and related CSS links
+
 - [Grow built-in fields 1](https://github.com/ampproject/amp.dev/blob/future/contributing/documentation.md)
 - [Grow built-in fields 2](https://github.com/ampproject/amp.dev/blob/future/contributing/samples.md)
 - [SCSS sample](https://github.com/ampproject/amp.dev/tree/6c909a6a8c66e2941e56cea29dfccf725c288057/frontend/scss)

@@ -1,9 +1,475 @@
 # Gulp Examples
 
-## Announcement
+##### last update: 11:56 Saturday, May 27, 2023
 
-  * Example: gulp-build___a.json
+## Example: Announcement
 
-## HTML `<head>`
+    {
+      "items": [
+        {
+          "term-113": "We do not use cookies or services that share data with other sites. You are anonymous.",
+          "term-114": "/",
+          "term-115": "Read our AA policy",
+          "term-116": "/",
+          "term-117": "Read our BB policy",
+          "term-118": "/",
+          "term-119": "Read our CC policy",
+          "term-120": "/",
+          "term-121": "Read our DD policy",
+          "term-122": "/",
+          "term-123": "Read our EE policy"
+        }
+      ]
+    }
+    
+## Example: HTML `<head>`
 
-  * Example: gulp-build__b.json
+    {
+      "items": [
+        {
+          "item-1011": "<!doctype html>"
+        },
+        {
+          "item-1012": "<html amp lang='ar' dir='rtl' prefix='schema: http://schema.org/ og: http://ogp.me/ns#'>"
+        },
+        {
+          "item-1013": "<head property='schema:WebPage'>"
+        },
+        {
+          "item-1014": "<meta charset='utf-8'>"
+        },
+        {
+          "item-1015": "<meta name='viewport' content='width=device-width,minimum-scale=1,initial-scale=1'>"
+        },
+        {
+          "item-1016": "<meta http-equiv='X-UA-Compatible' content='IE=Edge'>"
+        },
+        {
+          "item-1017": "<title property='schema:name' content='RDF-50-NL'>Ontomatica Home</title>"
+        },
+        {
+          "item-1018": "<meta name='description' property='schema:description' content='page description NL'>"
+        },
+        {
+          "item-1019": "<link rel='publisher' property='schema:url' href='https://ontomatica.io'>"
+        },
+        {
+          "item-1020": "<meta name='google-site-verification' property='schema:Text' content='loPHnxZ-JSXfURPQz0MZyH1JsjfFzYUjMbORqVaKYEQ'>"
+        },
+        {
+          "item-1021": "<meta name='yandex-verification' property='schema:Text' content='yandex-verification'>"
+        },
+        {
+          "item-1022": "<meta name='msvalidate.01' property='schema:Text' content='ms-verification'>"
+        },
+        {
+          "item-1023": "<meta name='p:domain_verify' property='schema:Text' content='pin-verification'>"
+        },
+        {
+          "item-1024": "<meta name='norton-safeweb-site-verification' property='schema:Text' content='norton-verification'>"
+        },
+        {
+          "item-1025": "<link rel='canonical' property='schema:url' hreflang='ar' href='https://ontomatica.io/ar'>"
+        },
+        {
+          "item-1026": "<link rel='alternate' property='schema:url' hreflang='cs' href='https://ontomatica.io/cs'>"
+        },
+        {
+          "item-1027": "<link rel='alternate' property='schema:url' hreflang='de' href='https://ontomatica.io/de'>"
+        },
+        {
+          "item-1028": "<link rel='alternate' property='schema:url' hreflang='en-GB' href='https://ontomatica.io/en-GB'>"
+        },
+        {
+          "item-1029": "<link rel='alternate' property='schema:url' hreflang='en-US' href='https://ontomatica.io/en-US'>"
+        },
+        {
+          "item-1030": "<link rel='alternate' property='schema:url' hreflang='es' href='https://ontomatica.io/es'>"
+        },
+        {
+          "item-1031": "<link rel='alternate' property='schema:url' hreflang='fr' href='https://ontomatica.io/fr'>"
+        },
+        {
+          "item-1032": "<link rel='alternate' property='schema:url' hreflang='hi' href='https://ontomatica.io/hi'>"
+        },
+        {
+          "item-1033": "<link rel='alternate' property='schema:url' hreflang='it' href='https://ontomatica.io/it'>"
+        },
+        {
+          "item-1034": "<link rel='alternate' property='schema:url' hreflang='ja' href='https://ontomatica.io/ja'>"
+        },
+        {
+          "item-1035": "<link rel='alternate' property='schema:url' hreflang='ko' href='https://ontomatica.io/ko'>"
+        },
+        {
+          "item-1036": "<link rel='alternate' property='schema:url' hreflang='pl' href='https://ontomatica.io/pl'>"
+        },
+        {
+          "item-1037": "<link rel='alternate' property='schema:url' hreflang='pt' href='https://ontomatica.io/pt'>"
+        },
+        {
+          "item-1038": "<link rel='alternate' property='schema:url' hreflang='ru' href='https://ontomatica.io/ru'>"
+        },
+        {
+          "item-1039": "<link rel='alternate' property='schema:url' hreflang='zh' href='https://ontomatica.io/zh'>"
+        },
+        {
+          "item-1040": "<meta name='page-locale' content='ar,cs,de,en-GB,en-US,es,fr,hi,it,ja,ko,pl,pt,ru,zh'>"
+        },
+        {
+          "item-1041": "<meta name='google' property='schema:Text' content='notranslate'>"
+        },
+        {
+          "item-1042": "<meta name='apple-mobile-web-app-capable' property='schema:Text' content='yes'>"
+        },
+        {
+          "item-1043": "<meta name='msapplication-TileColor' property='schema:Text' content='#ffffff'>"
+        },
+        {
+          "item-1044": "<meta name='msapplication-TileImage' property='schema:Text' content='/static/image/icons/ms-icon-144x144.png'>"
+        },
+        {
+          "item-1045": "<meta name='theme-color' property='schema:Text' content='#ffffff'>"
+        },
+        {
+          "item-1046": "<meta name='theme-color' property='schema:Text' content='#005af0'>"
+        },
+        {
+          "item-1047": "<meta http-equiv='Content-Script-Type' content='text/javascript'>"
+        },
+        {
+          "item-1048": "<meta http-equiv='Content-Type' content='application/rdf+xml'>"
+        },
+        {
+          "item-1049": "<meta http-equiv='Content-Type' content='application/ld+json'>"
+        },
+        {
+          "item-1050": "<meta http-equiv='Content-Type' content='application/json'>"
+        },
+        {
+          "item-1051": "<meta name='generator' property='schema:Text' content='Accelerated Mobile Pages'>"
+        },
+        {
+          "item-1052": "<meta name='twitter:card' property='schema:headline' content='summary'>"
+        },
+        {
+          "item-1053": "<meta name='twitter:description' property='schema:description' content='Content description less than 200 characters'>"
+        },
+        {
+          "item-1054": "<meta name='twitter:title' property='schema:name' content='RDF-50-NL'>"
+        },
+        {
+          "item-1055": "<meta name='twitter:creator' property='schema:creator' content='@ontomatica'>"
+        },
+        {
+          "item-1056": "<meta name='twitter:site' property='schema:url' content='/static/img/sharing/default-600x314.png'>"
+        },
+        {
+          "item-1057": "<meta name='twitter:image' property='schema:image' content='/static/img/sharing/default-600x314.png'>"
+        },
+        {
+          "item-1058": "<meta property='og:title' content='RDF-50-NL'>"
+        },
+        {
+          "item-1059": "<meta property='og:description' content='page description NL'>"
+        },
+        {
+          "item-1060": "<meta property='og:url' content='/static/img/sharing/default-600x314.png'>"
+        },
+        {
+          "item-1061": "<meta property='og:image' content='/static/img/sharing/default-600x314.png'>"
+        },
+        {
+          "item-1062": "<meta property='og:image:width' content='600'>"
+        },
+        {
+          "item-1063": "<meta property='og:image:height' content='314'>"
+        },
+        {
+          "item-1064": "<link rel='schema:license' property='schema:url'  title='CC Copyrights'  href='http://creativecommons.org/license/by-nd/4.0/'>"
+        },
+        {
+          "item-1065": "<link rel='schema:about' property='schema:url'  title='Agricultural chemicals'  href='http://id.loc.gov/authorities/subjects/sh85002279'>"
+        },
+        {
+          "item-1066": "<link rel='schema:about' property='schema:url'  title='Agricultural chemicals'  href='http://dbpedia.org/resource/Agrochemical'>"
+        },
+        {
+          "item-1067": "<link rel='schema:about' property='schema:url'  title='Data sharing'  href='http://dbpedia.org/resource/Data_sharing'>"
+        },
+        {
+          "item-1068": "<link rel='schema:about' property='schema:url'  title='Electronic data interchange'  href='http://id.loc.gov/authorities/subjects/sh89003156'>"
+        },
+        {
+          "item-1069": "<link rel='schema:about' property='schema:url'  title='Electronic data interchange'  href='http://dbpedia.org/resource/Electronic_data_interchange'>"
+        },
+        {
+          "item-1070": "<link rel='schema:about' property='schema:url'  title='Food'  href='http://id.loc.gov/authorities/subjects/sh85050184'>"
+        },
+        {
+          "item-1071": "<link rel='schema:about' property='schema:url'  title='Food'  href='http://dbpedia.org/resource/Food'>"
+        },
+        {
+          "item-1072": "<link rel='schema:about' property='schema:url'  title='Food additives'  href='http://id.loc.gov/authorities/subjects/sh85050253'>"
+        },
+        {
+          "item-1073": "<link rel='schema:about' property='schema:url'  title='Food additives'  href='http://dbpedia.org/resource/Food_additive'>"
+        },
+        {
+          "item-1074": "<link rel='schema:about' property='schema:url'  title='Food labeling'  href='http://id.loc.gov/authorities/subjects/sh85050201'>"
+        },
+        {
+          "item-1075": "<link rel='schema:about' property='schema:url'  title='Linked data'  href='http://id.loc.gov/authorities/subjects/sh2013002090'>"
+        },
+        {
+          "item-1076": "<link rel='schema:about' property='schema:url'  title='Linked data'  href='http://dbpedia.org/resource/Linked_data'>"
+        },
+        {
+          "item-1077": "<link rel='schema:about' property='schema:url'  title='Medical Subject Headings'  href='http://dbpedia.org/resource/Medical_Subject_Headings'>"
+        },
+        {
+          "item-1078": "<link rel='schema:about' property='schema:url'  title='Metadata'  href='http://id.loc.gov/authorities/subjects/sh96000740'>"
+        },
+        {
+          "item-1079": "<link rel='schema:about' property='schema:url'  title='Metadata'  href='http://dbpedia.org/resource/Metadata'>"
+        },
+        {
+          "item-1080": "<link rel='schema:about' property='schema:url'  title='Nutrition facts label'  href='http://dbpedia.org/resource/Nutrition_facts_label'>"
+        },
+        {
+          "item-1081": "<link rel='schema:about' property='schema:url'  title='Ontologies (information retrieval)'  href='http://id.loc.gov/authorities/subjects/sh2005006014'>"
+        },
+        {
+          "item-1082": "<link rel='schema:about' property='schema:url'  title='Ontology (information science)'  href='http://dbpedia.org/resource/Ontology_(information_science)'>"
+        },
+        {
+          "item-1083": "<link rel='schema:about' property='schema:url'  title='Open Biomedical Ontologies'  href='http://dbpedia.org/resource/Open_Biomedical_Ontologies'>"
+        },
+        {
+          "item-1084": "<link rel='schema:about' property='schema:url'  title='Semantic Web'  href='http://id.loc.gov/authorities/subjects/sh2002000569'>"
+        },
+        {
+          "item-1085": "<link rel='schema:about' property='schema:url'  title='Semantic Web'  href='http://dbpedia.org/resource/Semantic_Web'>"
+        },
+        {
+          "item-1086": "<link rel='schema:about' property='schema:url'  title='Structured Product Labeling'  href='http://dbpedia.org/resource/Structured_Product_Labeling'>"
+        },
+        {
+          "item-1087": "<link rel='schema:about' property='schema:url'  title='United States Department of Agriculture'  href='http://id.loc.gov/authorities/subjects/sh87006120'>"
+        },
+        {
+          "item-1088": "<link rel='manifest' type='application/json' href='/manifest.json'>"
+        },
+        {
+          "item-1089": "<link rel='shortcut icon' property='schema:image' type='image/x-icon' href='/static/image/onto_symb_w421_h421.png'>"
+        },
+        {
+          "item-1090": "<meta name='mobile-web-app-capable'  content='yes'>"
+        },
+        {
+          "item-1091": "<meta name='apple-touch-fullscreen'  content='yes'>"
+        },
+        {
+          "item-1092": "<meta name='apple-mobile-web-app-title'  content='Expo'>"
+        },
+        {
+          "item-1093": "<meta name='apple-mobile-web-app-capable'  content='yes'>"
+        },
+        {
+          "item-1094": "<meta name='apple-mobile-web-app-status-bar-style'  content='default'>"
+        },
+        {
+          "item-1095": "<link rel='apple-touch-startup-image' media='screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)' href='/assets/splash/icon_1136x640.png'>"
+        },
+        {
+          "item-1096": "<link rel='apple-touch-startup-image' media='screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)' href='/assets/splash/icon_2436x1125.png'>"
+        },
+        {
+          "item-1097": "<link rel='apple-touch-startup-image' media='screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)' href='/assets/splash/icon_1792x828.png'>"
+        },
+        {
+          "item-1098": "<link rel='apple-touch-startup-image' media='screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)' href='/assets/splash/icon_828x1792.png'>"
+        },
+        {
+          "item-1099": "<link rel='apple-touch-startup-image' media='screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)' href='/assets/splash/icon_1334x750.png'>"
+        },
+        {
+          "item-1100": "<link rel='apple-touch-startup-image' media='screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)' href='/assets/splash/icon_1242x2688.png'>"
+        },
+        {
+          "item-1101": "<link rel='apple-touch-startup-image' media='screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)' href='/assets/splash/icon_2208x1242.png'>"
+        },
+        {
+          "item-1102": "<link rel='apple-touch-startup-image' media='screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)' href='/assets/splash/icon_1125x2436.png'>"
+        },
+        {
+          "item-1103": "<link rel='apple-touch-startup-image' media='screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)' href='/assets/splash/icon_1242x2208.png'>"
+        },
+        {
+          "item-1104": "<link rel='apple-touch-startup-image' media='screen and (device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)' href='/assets/splash/icon_2732x2048.png'>"
+        },
+        {
+          "item-1105": "<link rel='apple-touch-startup-image' media='screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)' href='/assets/splash/icon_2688x1242.png'>"
+        },
+        {
+          "item-1106": "<link rel='apple-touch-startup-image' media='screen and (device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)' href='/assets/splash/icon_2224x1668.png'>"
+        },
+        {
+          "item-1107": "<link rel='apple-touch-startup-image' media='screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)' href='/assets/splash/icon_750x1334.png'>"
+        },
+        {
+          "item-1108": "<link rel='apple-touch-startup-image' media='screen and (device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)' href='/assets/splash/icon_2048x2732.png'>"
+        },
+        {
+          "item-1109": "<link rel='apple-touch-startup-image' media='screen and (device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)' href='/assets/splash/icon_2388x1668.png'>"
+        },
+        {
+          "item-1110": "<link rel='apple-touch-startup-image' media='screen and (device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)' href='/assets/splash/icon_1668x2224.png'>"
+        },
+        {
+          "item-1111": "<link rel='apple-touch-startup-image' media='screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)' href='/assets/splash/icon_640x1136.png'>"
+        },
+        {
+          "item-1112": "<link rel='apple-touch-startup-image' media='screen and (device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)' href='/assets/splash/icon_1668x2388.png'>"
+        },
+        {
+          "item-1113": "<link rel='apple-touch-startup-image' media='screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)' href='/assets/splash/icon_2048x1536.png'>"
+        },
+        {
+          "item-1114": "<link rel='apple-touch-startup-image' media='screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)' href='/assets/splash/icon_1536x2048.png'>"
+        },
+        {
+          "item-1115": "<link rel='apple-touch-icon' property='schema:image' sizes='57x57' href='/static/image/icons/apple-icon-57x57.png'>"
+        },
+        {
+          "item-1116": "<link rel='apple-touch-icon' property='schema:image' sizes='60x60' href='/static/image/icons/apple-icon-60x60.png'>"
+        },
+        {
+          "item-1117": "<link rel='apple-touch-icon' property='schema:image' sizes='72x72' href='/static/image/icons/apple-icon-72x72.png'>"
+        },
+        {
+          "item-1118": "<link rel='apple-touch-icon' property='schema:image' sizes='76x76' href='/static/image/icons/apple-icon-76x76.png'>"
+        },
+        {
+          "item-1119": "<link rel='apple-touch-icon' property='schema:image' sizes='114x114' href='/static/image/icons/apple-icon-114x114.png'>"
+        },
+        {
+          "item-1120": "<link rel='apple-touch-icon' property='schema:image' sizes='120x120' href='/static/image/icons/apple-icon-120x120.png'>"
+        },
+        {
+          "item-1121": "<link rel='apple-touch-icon' property='schema:image' sizes='144x144' href='/static/image/icons/apple-icon-144x144.png'>"
+        },
+        {
+          "item-1122": "<link rel='apple-touch-icon' property='schema:image' sizes='152x152' href='/static/image/icons/apple-icon-152x152.png'>"
+        },
+        {
+          "item-1123": "<link rel='apple-touch-icon' property='schema:image' sizes='180x180' href='/static/image/icons/apple-icon-180x180.png'>"
+        },
+        {
+          "item-1124": "<link rel='apple-touch-icon-precomposed' property='schema:image' sizes='144x144' href='https://cdn.mdn.mozilla.net/static/img/favicon144.png'>"
+        },
+        {
+          "item-1125": "<link rel='apple-touch-icon-precomposed' property='schema:image' sizes='114x114' href='https://cdn.mdn.mozilla.net/static/img/favicon114.png'>"
+        },
+        {
+          "item-1126": "<link rel='apple-touch-icon-precomposed' property='schema:image' sizes='72x72' href='https://cdn.mdn.mozilla.net/static/img/favicon72.png'>"
+        },
+        {
+          "item-1127": "<link rel='apple-touch-icon-precomposed' property='schema:image' sizes='57x57' href='https://cdn.mdn.mozilla.net/static/img/favicon57.png'>"
+        },
+        {
+          "item-1128": "<link rel='icon' property='schema:image' sizes='192x192' href='/static/image/icons/android-icon-192x192.png'>"
+        },
+        {
+          "item-1129": "<link rel='icon' property='schema:image' sizes='32x32' href='/static/image/icons/favicon-32x32.png'>"
+        },
+        {
+          "item-1130": "<link rel='icon' property='schema:image' sizes='96x96' href='/static/image/icons/favicon-96x96.png'>"
+        },
+        {
+          "item-1131": "<link rel='icon' property='schema:image' sizes='16x16' href='/static/image/icons/favicon-16x16.png'>"
+        },
+        {
+          "item-1132": "<link rel='preload' as='font' crossorigin='' href='https://amp.dev/static/fonts/noto-sans-v7-latin-regular.woff2'>"
+        },
+        {
+          "item-1133": "<link rel='preload' as='font' crossorigin='' href='https://amp.dev/static/fonts/noto-sans-v7-latin-700.woff2'>"
+        },
+        {
+          "item-1134": "<link rel='preload' as='font' crossorigin='' href='https://amp.dev/static/fonts/poppins-v5-latin-700.woff2'>"
+        },
+        {
+          "item-1135": "<link rel='preload' as='font' crossorigin='' href='https://amp.dev/static/fonts/fira-mono-v7-latin-500.woff2'>"
+        },
+        {
+          "item-1136": "<link rel='preload' as='script' href='https://cdn.ampproject.org/v0.js'>"
+        },
+        {
+          "item-1137": "<script async='' src='https://cdn.ampproject.org/v0.js'></script>"
+        },
+        {
+          "item-1138": "<script custom-element='amp-lightbox' async='' src='https://cdn.ampproject.org/v0/amp-lightbox-0.1.js'></script>"
+        },
+        {
+          "item-1139": "<script custom-element='amp-consent' async='' src='https://cdn.ampproject.org/v0/amp-consent-0.1.js'></script>"
+        },
+        {
+          "item-1140": "<script custom-element='amp-autocomplete' async='' src='https://cdn.ampproject.org/v0/amp-autocomplete-0.1.js'></script>"
+        },
+        {
+          "item-1141": "<script custom-element='amp-geo' async='' src='https://cdn.ampproject.org/v0/amp-geo-0.1.js'></script>"
+        },
+        {
+          "item-1142": "<script custom-element='amp-iframe' async='' src='https://cdn.ampproject.org/v0/amp-iframe-0.1.js'></script>"
+        },
+        {
+          "item-1143": "<script custom-element='amp-install-serviceworker' async='' src='https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js'></script>"
+        },
+        {
+          "item-1144": "<script custom-element='amp-bind' async='' src='https://cdn.ampproject.org/v0/amp-bind-0.1.js'></script>"
+        },
+        {
+          "item-1145": "<script custom-element='amp-animation' async='' src='https://cdn.ampproject.org/v0/amp-animation-0.1.js'></script>"
+        },
+        {
+          "item-1146": "<script custom-element='amp-analytics' async='' src='https://cdn.ampproject.org/v0/amp-analytics-0.1.js'></script>"
+        },
+        {
+          "item-1147": "<script custom-element='amp-form' async='' src='https://cdn.ampproject.org/v0/amp-form-0.1.js'></script>"
+        },
+        {
+          "item-1148": "<script custom-template='amp-mustache' async='' src='https://cdn.ampproject.org/v0/amp-mustache-0.2.js'></script>"
+        },
+        {
+          "item-1149": "<script custom-element='amp-list' async='' src='https://cdn.ampproject.org/v0/amp-list-0.1.js'></script>"
+        },
+        {
+          "item-1150": "<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>"
+        },
+        {
+          "item-1151": "<style amp-runtime='' i-amphtml-version='011905291911450'>STYLES</style>"
+        },
+        {
+          "item-1152": "<style amp-custom=''>STYLES</style>"
+        },
+        {
+          "item-1153": "<link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Roboto'>"
+        },
+        {
+          "item-1154": "<link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Open+Sans'>"
+        },
+        {
+          "item-1155": "<link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Merriweather'>"
+        },
+        {
+          "item-1156": "<link rel='stylesheet' type='text/css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css'>"
+        },
+        {
+          "item-1157": "<link rel='stylesheet' type='text/css' href='style-1.css'>"
+        },
+        {
+          "item-1158": "<link rel='stylesheet' type='text/css' href='style-2.css'>"
+        }
+      ]
+    }
+    
